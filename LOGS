@@ -18,3 +18,10 @@
 [24-03-2018]
   - Saif finds out how buggy the Wifi is. 
   - Need to find a fix soon
+[26-03-2018]
+  - turning fixed. Needs Optimization with PID/Magnetometer
+  - in w8s1 in two separate terminals: ./a.out /dev and gnuplot lidar_plot_live.plt
+  - ./vincent-pi for commands in another terminal 
+  - Learn PID and implement on motors. 
+  - Insert Magnetometer
+  
