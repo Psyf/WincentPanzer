@@ -1,0 +1,10 @@
+This project was made for CG1112 AY17/18 Sem 2, NUS
+by Saif, Paras, Pham and Shreyas. 
+
+Steps: 
+	1. Flash noPID_v1.5 onto Arduino. 
+	2. run ./tls-vincent-server from Comms/secure_serverCtrl 
+	3. run ./a.out /dev/ttyUSBx from GnuLidat/w8s1
+	4. open lidar-plot_live.plt using gnuplot from GnuLidar/w8s1
+	5. run ./tls-vincent-client [IPADDRESS] [PORT-5000]  
+	6. Enjoy!

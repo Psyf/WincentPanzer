@@ -1,0 +1,2 @@
+turtlesim
+-DCATKIN_DEVEL_PREFIX=/home/pi/Desktop/w9s1_ros_tutorial/devel -DCMAKE_INSTALL_PREFIX=/home/pi/Desktop/w9s1_ros_tutorial/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+set(turtlesim_MESSAGE_FILES "/home/pi/Desktop/w9s1_ros_tutorial/src/turtlesim/msg/Color.msg;/home/pi/Desktop/w9s1_ros_tutorial/src/turtlesim/msg/Pose.msg")
+set(turtlesim_SERVICE_FILES "/home/pi/Desktop/w9s1_ros_tutorial/src/turtlesim/srv/Kill.srv;/home/pi/Desktop/w9s1_ros_tutorial/src/turtlesim/srv/SetPen.srv;/home/pi/Desktop/w9s1_ros_tutorial/src/turtlesim/srv/Spawn.srv;/home/pi/Desktop/w9s1_ros_tutorial/src/turtlesim/srv/TeleportAbsolute.srv;/home/pi/Desktop/w9s1_ros_tutorial/src/turtlesim/srv/TeleportRelative.srv")
